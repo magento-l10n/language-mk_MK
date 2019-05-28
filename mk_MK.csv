@@ -312,6 +312,7 @@ Tags,Ознаки
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404 Error</h1><p>Страната не е пронајдена</p>"
 "Page not found.","Страната не е пронајдена."
 label,ознака
+"Save &amp; Close","Зачувај &amp; затвори"
 failed,неуспешно
 successful,успешно
 "Please correct the password.","Ве молиме корегирајте ја лозинката."
@@ -505,6 +506,7 @@ Inventory,Залиха
 "Add to Wishlist","Додади во листа на желби"
 "Recently Compared Products","Последно споредени продукти"
 "List of Products Recently Compared by Visitor","Листа на продукти последно споредени од посетител"
+"Include in Menu","Вклучи во менито"
 "Delete selected items?","Избриши ги селектираните продукти?"
 "Delete items","Избриши продукти"
 "Change status","Промени статус"
@@ -1122,6 +1124,7 @@ Wishlist,"Листа со желби"
 Qty:,Кол:
 "Qty: ","Кол: "
 deleted,избришено
+"You closed the quote.","Ја затворивте понудата."
 "Cannot delete comment with id %1","Неможе да се избрише коментарот со id %1"
 " - deleted"," - избришено"
 "Cart Price: ","Цена на кошничка: "
@@ -1411,6 +1414,7 @@ Rating,Оценка
 "Order Date (%1)","Датум на нарачка (%1)"
 "Edit Customer","Измени купувач"
 "Comment added","Додаден коментар"
+"Is Closed","Е затворено"
 "You have placed no orders.","Немате направено нарачки."
 "About Your Order","За вашата нарачка"
 "<span class=""label"">Order Date:</span> %1","<span class=""label"">Датум на нарачка:</span> %1"
@@ -1511,6 +1515,7 @@ Taxes,Даноци
 "Order Total Incl. Tax","Вкупно со ДДВ"
 "Save and Continue","Зачивај и продолжи"
 "%1 Item(s)","%1 Продукт/и"
+Menu,Мени
 "Go to Details Page","Оди на страната со детали"
 "Please enter {0} words or less.","Ве молиме внесете {0} зборови или помалку."
 "Please enter at least {0} words.","Ве молиме внесете барем {0} збор/зборови."
@@ -1545,6 +1550,7 @@ email,емаил
 "Thanks,","Благодариме,"
 "Preview is not available.","Прегледот не е достапен."
 Next/Previous,"Следно / Претходно"
+"Show in navigation menu.","Покажи во навигационото мени."
 "Save and continue edit.","Зачивај и продолжи да изменуваш."
 "Please wait...","Ве молиме почекајте..."
 "Add Product by SKU","Додади продукт по SKU"
@@ -1554,6 +1560,7 @@ Next/Previous,"Следно / Претходно"
 "Sort by color","Сортирај по боја"
 "Save and Close","Зачувај и затвори"
 "Determines which products are 'low stock'","Одредува кои продукти се на 'ниска залиха'"
+"Website Closed","Веб сајтот е затворен"
 "Total Incl. Tax","Вкупно со ДДВ"
 description,опис
 "Wish List Sharing","Сподели ја листата со желби"
