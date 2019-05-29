@@ -793,6 +793,7 @@ Unknown,Непознато
 "Customer Login","Најавете се"
 "Create New Customer Account","Креирај нов профил"
 "Date of Birth","Датум на раѓање"
+"Thank you for registering with %1.","Благодариме што креиравте профил на %1."
 "Your password reset link has expired.","Линкот за ресетирање на лозинката помина."
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Веќе има креирано профил со оваа Емаил адреса. Ако сте сигурни дека е ова е вашата адреса <a href=""%1"">кликнете овде</a> да добиете лозинка и да пристапите до вашиот профил."
 "Please make sure your passwords match.","Ве молиме проверете дали двете лозинка се совпаѓаат."
@@ -818,7 +819,7 @@ Unknown,Непознато
 Male,Машко
 Female,Женско
 "Not Specified","Не дефинирано"
-"Thank you for registering with","Благодариме за регистрирање со"
+"Thank you for registering with","Благодариме што креиравте профил на"
 "enter your billing address for proper VAT calculation","внесете адреса на плаќање за точна пресметка на данок"
 "enter your shipping address for proper VAT calculation","внесете адреса на испорака за точна пресметка на данок"
 "Please enter new password.","Ве молиме внесете нова лозинка."
@@ -1527,6 +1528,7 @@ Menu,Мени
 "HTML tags are not allowed.","HTML тагови не се дозволени."
 "Please select an option.","Ве молиме изберете опција."
 "Please enter a valid email address (Ex: johndoe@domain.com).","Ве молиме внесете валидна емаил адреса (пр. johndoe@domain.com)."
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Минималната должина на ова поле мора да биде еднаква или поголема од %1 симболи. Водечките и задните простори ќе бидат игнорирани."
 Category:,Категорија:
 "message %1","порака %1"
 "Account Status","Статус на профилот"
