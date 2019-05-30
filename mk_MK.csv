@@ -1588,6 +1588,8 @@ Comment:,Коментар:
 "Add To Wishlist","Додади во листа на желби"
 "Hide Contact Information","Сокриј информации за контакт"
 "continue shopping","продолжи со купување"
+"Store alternative addresses","Зачуваш повеќе адреси"
+"For shipping to multiple family members and friends","Доколку сакаш да направиш испорака на некој член од семејството или пријател"
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Доколку имате прашања за вашата нарачка, можете да ни пратите емаил на <a href=""mailto:%store_email"">%store_email</a>."
 Warning,Предупредување
 "Recent items","Последни продукти"
