@@ -449,6 +449,7 @@ Category,Категорија
 "%1 and above","%1 и погоре"
 "Some of the selected item options are not currently available.","Некои од избраните опции на продуктот не се достапни во моментот."
 "Could not save Prices.","Неможе да се зачуваат цените."
+"Unable to remove product %1","Продуктот %1 неможе да се отстрани"
 test,тест
 message,порака
 "Customer Group","Група на купувачи"
@@ -466,6 +467,7 @@ Groups,Групи
 "Stock Availability","Достапност на залиха"
 "In Stock","На залиха"
 "Out of Stock","Нема на залиха"
+"Remove Product From Websites","Отстрани го продуктот од вебсајтот"
 "Item Price","Цена на продуктот"
 Hidden,Скриено
 "Buy %1 for: ","Купи %1 за: "
@@ -475,6 +477,7 @@ Hidden,Скриено
 "Shopping Options","Филтрирај по"
 "Compare Products","Спореди продукти"
 "Print This Page","Испринти ја оваа страница"
+"Remove Product","Отстрани продукт"
 "Add to Wish List","Додади во листа на желби"
 "You have no items to compare.","Немате продукти за споредба."
 "Remove This Item","Отстрани го овој продукт"
@@ -521,6 +524,7 @@ from,од
 to,до
 remaining,останува
 "too many",премногу
+"The ""%1"" product couldn't be removed.","Продуктот ""%1"" неможе да биде отстранет."
 Open,Отвори
 Closed,Затвори
 "%1 is required.","%1 е задолжително."
@@ -534,6 +538,7 @@ Start,Почеток
 End,Крај
 "Minimum Qty","Минимална кол."
 "Allow Qty Below 0","Дозволи кол. под 0"
+"Unable to remove Stock Status for product %1","Неможе да се отстрани Статусот на залиха од продуктит %1"
 "Stock Status","Статус на залиха"
 "Only %1 left","Само %1 останат/и"
 "Product availability","Достапност на продуктот"
@@ -556,12 +561,14 @@ Priority,Приоритет
 "Update Name","Ажирирај име"
 "Save as a New Update","Зачувај како ново ажурирање"
 "Delete the Update","Избриши го ажурирањето"
+"Catalog Advanced Search","Напредно пребарување"
 "Advanced Search Results","Резултати од напредното пребарување"
 "Search Weight","Барај тежина"
 Relevance,Релевантност
 "Search results for: '%1'","Резултати од пребарувањето за: '%1'"
 "%1 and greater","%1 и поголем"
 "up to %1","до %1"
+"Search Settings","Поставки за пребарување"
 "Advanced Search","Напредно пребарување"
 "<strong>%1 item</strong> were found using the following search criteria","<strong>%1 продукт</strong> е пронајден користејќи ги следните параметри"
 "<strong>%1 items</strong> were found using the following search criteria","<strong>%1 продукти</strong> се пронајдени користејќи ги следните параметри"
@@ -572,7 +579,11 @@ Relevance,Релевантност
 "Popular Search Terms","Популарни пребарувани термини"
 View/Edit,Види/Измени
 Preview,Преглед
+"Remove Product from Update","Отстрани го продуктот од Ажурирање"
+"The product will be removed from the update and all scheduled changes will be lost.","Продуктот ќе биде отрстранет од ажурирањата и сите закажани промени ќе бидат изгубени."
 Path,Патека
+"Remove Product from Campaign","Отстрани го продуктот од Кампања"
+"Deleting the update will remove the product from this campaign and all scheduled changes will be lost.","Бришењето на ажурирањето ќе го отстрани продуктот од оваа кампања и сите закажени промени ќе бидат изгубени."
 "My Cart (1 item)","Моја кошничка (1 продукт)"
 "My Cart (%1 items)","Моја кошничка (%1 продукти)"
 "My Cart","Моја кошничка"
@@ -689,6 +700,7 @@ View,Види
 "Company Name:","Име на компанија:"
 "Company Email:","Емаил на фирмата:"
 "Street Address:",Улица:
+"ZIP/Postal Code:","Поштенски код:"
 "Email Address:","Емаил адреса:"
 "First Name:",Име:
 "Last Name:",Презиме:
@@ -912,6 +924,7 @@ Strong,Силна
 "Customer Since","Купувач од"
 "Confirmed email","Потврден емаил"
 "Tax VAT Number","Даночен број"
+"Billing Lastname","Презиме за плаќањето"
 "Last Activity","Последна активност"
 "Customer Information","Информации за купувачот"
 "Are you sure you want to delete this item?","Дали сте сигурни дека сакате да го избришете овој продукт?"
@@ -923,6 +936,7 @@ Addresses,Адреси
 "Confirm your new password.","Потврдете ја новата лозинка."
 "Please enter the first name.","Ве молиме внесете име."
 "Please enter the last name.","Ве молиме внесете презиме."
+"Please enter the zip/postal code.","Ве молиме внесете поштенски код."
 "Please enter a first name.","Ве молиме внесете име."
 "Please enter a last name.","Ве молиме внесете презиме."
 "Please correct this email address: ""%1"".","Ве молиме корегирајте ја оваа емаил адресата: ""%1""."
@@ -1032,6 +1046,7 @@ Add/Update,Додади/Ажурирај
 "The item was deleted","Продуктот е избришан"
 Archive,Архива
 Reorder,"Нарачи повторно"
+Print,Испринти
 "Catalog Reviews","Мислење за продукти"
 "Newsletter Subscribers","Претплатници на елетронски новости"
 "XML Sitemap","XML мапа на сајтот"
@@ -1248,6 +1263,7 @@ Reviews,Мислења
 "Abandoned Cart","Напуштена кошничка"
 "Ordered Quantity","Порачена количина"
 "Last Review","Последно мислење"
+"List of Products Recently Compared and Removed from the Compare List by Visitor","Листа на продукти Неодамна Споредени и Отстранети од Листата за споредба од Посетителот"
 "You added %1 item(s) to your shopping cart.","Додадовте %1продукт/и во вашата кошничка."
 "%1 item(s) were copied to %2","%1 продукт/и се копирани во %2"
 "%1 item(s) were added to the ""%2""","%1 продукт/и се додадени на ""%2"""
@@ -1260,6 +1276,7 @@ Rename,Преименувај
 "Save Review","Зачувај мислење"
 "New Review","Ново мислење"
 "Review Details","Детали за мислење"
+Nickname,Прекар
 "Summary of Review","Преглед од мислење"
 "Save and Previous","Зачувај и претходно"
 "Save and Next","Зачувај и следно"
@@ -1287,6 +1304,7 @@ Rename,Преименувај
 Ratings,Оценки
 "My Product Reviews","Мои мислења за продукти"
 "We can't post your review right now.","Во моментот неможеме да го објавиме вашето мислење."
+"Please enter a nickname.","Ве молиме внесете прекар."
 "Please enter a review.","Ве молиме внесете мислење."
 Rating,Оценка
 "You have submitted no reviews.","Немате дадено мислења за продукти."
@@ -1374,6 +1392,7 @@ Rating,Оценка
 "Order Invoices","Фактури за нарачката"
 "Back to My Orders","Назад кон моите нарачки"
 "View Another Order","Види друга нарачка"
+"Print Order # %1","Испринти нарачка #%1"
 "Please enter a comment.","Ве молиме внесете коментар."
 "New Order","Нова нарачка"
 "Edit Order","Измени нарачка"
@@ -1416,7 +1435,14 @@ Rating,Оценка
 "Edit Customer","Измени купувач"
 "Comment added","Додаден коментар"
 "Is Closed","Е затворено"
+"Billing Last Name","Презиме за плаќањето"
+"Find Order By","Пронајди ја нарачката преку"
+"ZIP Code","Поштенски код"
+"Billing ZIP Code","Поштенски код за плаќање"
 "You have placed no orders.","Немате направено нарачки."
+"Print Order","Испринти ја нарачка"
+"Print All Invoices","Испринти ги сите фактури"
+"Print Invoice","Испринти фактура"
 "About Your Order","За вашата нарачка"
 "<span class=""label"">Order Date:</span> %1","<span class=""label"">Датум на нарачка:</span> %1"
 "Recent Orders","Неодамнешни нарачки"
@@ -1442,8 +1468,11 @@ Rating,Оценка
 "Your Shipment #%shipment_id for Order #%order_id","Вашата испратница #%shipment_id за нарачка #%order_id"
 "Update to your %store_name shipment","Вашата испорака е ажурирана - %store_name"
 "Shipment Comments","Коментари за испорака"
+"ZIP/Post Code","Поштенски код"
 "Default Status","Предодреден статус"
 "Item Status","Статус на продукт"
+"Print Invoices","Испринти фактури"
+"Print All","Испринти ги сите"
 "Move to Archive","Премести во архива"
 "Go to Archive","Оди на архива"
 "Coupon Qty","Кол. на купони"
@@ -1468,10 +1497,13 @@ yes,да
 "Submit Shipment","Поднеси испорака"
 "Cannot add new comment.","Неможе да се додаде коментарот."
 "Tracking information must contain title, carrier code, and tracking number","Информациите за следење може да содржат наслов, код на превозникот и број за следење"
+"This shipping method is not available. Please specify the zip code.","Овој начин на испорака не е достапен. Ве молиме наведете го поштенскиот код."
 "Items to Ship","Продукти за испорака"
 "Qty to Ship","Кол. за испорака"
 "Shipping &amp; Handling Information","Информации за испорака &amp; достава"
 "Items Shipped","Испорачани продукти"
+"Print All Shipments","Испринти ги сите испораки"
+"Print Shipment","Испринти испорака"
 " for more information or "," за повеќе информации или "
 "In Review","На прегледување"
 "Save & Generate","Зачувај & генерирај"
@@ -1497,12 +1529,15 @@ Language,Јазик
 "Refresh Status","Освежи статус"
 more,повеќе
 "Show Related Products","Покажи поврзани продукти"
+"Zip/Post Code","Поштенски код"
 "Subtotal (Excl.Tax)","Вкупно (без ДДВ)"
 "Subtotal (Incl.Tax)","Вкупно (со ДДВ)"
 "Shipping & Handling (Excl.Tax)","Испорака & Достава (без ДДВ)"
 "Shipping & Handling (Incl.Tax)","Испорака & Достава (со ДДВ)"
 "Grand Total (Excl.Tax)","Вкупно (без ДДВ)"
 "Grand Total (Incl.Tax)","Вкупно (со ДДВ)"
+"Maximum zip code length is 9.","Максималната должина на поштенскиот код е 9."
+"Use digits only for the zip code.","Користете само броеви за поштенскиот код."
 "Yes (only price with tax)","Да (само цена со данок)"
 "Grand Total (Excl. Tax)","Вкупно (без ДДВ)"
 "Grand Total (Incl. Tax)","Вкупно (со ДДВ)"
@@ -1514,6 +1549,8 @@ Taxes,Даноци
 "(Incl. Tax)","(Со ДДВ)"
 "Order Total Excl. Tax","Вкупно без ДДВ"
 "Order Total Incl. Tax","Вкупно со ДДВ"
+"The ZIP Code length is invalid. Verify that the length is nine characters or fewer and try again.","Должината на поштенскиот код е невалидна. Потврдете дека должината е 9 или помалку карактери и обидете се повторно."
+"The ZIP Code is invalid. Use numbers only.","Поштенскиот код е невалиде. Користете само броеви."
 "Save and Continue","Зачивај и продолжи"
 "%1 Item(s)","%1 Продукт/и"
 Menu,Мени
@@ -1529,6 +1566,7 @@ Menu,Мени
 "Please select an option.","Ве молиме изберете опција."
 "Please enter a valid email address (Ex: johndoe@domain.com).","Ве молиме внесете валидна емаил адреса (пр. johndoe@domain.com)."
 "Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Минималната должина на ова поле мора да биде еднаква или поголема од %1 симболи. Водечките и задните простори ќе бидат игнорирани."
+"Please enter a valid zip code.","Ве молиме внесете валиден поштенски код."
 Category:,Категорија:
 "message %1","порака %1"
 "Account Status","Статус на профилот"
@@ -1586,6 +1624,7 @@ Comment:,Коментар:
 "No Items Found","Не се пронајдени продукти"
 "Product Details and Comment","Детали за продуктот и коментари"
 "Add To Wishlist","Додади во листа на желби"
+"Are you sure you want to remove this product from your Wish List?","Дали сте сигурни дека сакате да го отстраните овој продукт од вашата листа на желби?"
 "Hide Contact Information","Сокриј информации за контакт"
 "continue shopping","продолжи со купување"
 "Store alternative addresses","Зачуваш повеќе адреси"
