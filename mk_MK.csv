@@ -554,6 +554,8 @@ Start,Почеток
 End,Крај
 "Minimum Qty","Минимална кол."
 "Allow Qty Below 0","Дозволи кол. под 0"
+"Unable to remove Stock Item with id ""%1""","Неможе да се отстрани Залихата на продуктот со id ""%1"""
+"Unable to remove Stock with id ""%1""","Неможе да се отстрани Залихата со id ""%1"""
 "Unable to remove Stock Status for product %1","Неможе да се отстрани Статусот на залиха од продуктит %1"
 "Stock Status","Статус на залиха"
 "Only %1 left","Само %1 останат/и"
