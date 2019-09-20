@@ -553,6 +553,8 @@ Sec,Секунди
 Start,Почеток
 End,Крај
 "Minimum Qty","Минимална кол."
+"This product is out of stock.","Продуктот не е повеќе на залиха."
+"Some of the products are out of stock.","Некои од продуктите не се повеќе на залиха."
 "Allow Qty Below 0","Дозволи кол. под 0"
 "Unable to remove Stock Item with id ""%1""","Неможе да се отстрани Залихата на продуктот со id ""%1"""
 "Unable to remove Stock with id ""%1""","Неможе да се отстрани Залихата со id ""%1"""
@@ -1112,6 +1114,7 @@ status,статус
 "Please enter a valid email address.","Ве молиме внесете валидна емаил адреса."
 "Please enter the quantity of items to add to cart.","Ве молиме внесете количина за продуктите што сакате да ги додадете во кошничката."
 "Please add invitees.","Ве молиме додадете поканети."
+"This product(s) is out of stock.","Продуктот/тите не е/се повеќе на залиха."
 "Please enter a valid email address(for example, daniel@x.com).","Ве молиме внесете валидна емаил адреса (пр. johndoe@x.com)."
 "Select a shipping address from your address book or enter a new address.","Изберете адреса за испорака од вашиот адресар или внесете нова адреса."
 "Added On","Додадено на"
