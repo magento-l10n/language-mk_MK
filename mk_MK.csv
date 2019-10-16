@@ -464,6 +464,7 @@ Category,Категорија
 test,тест
 message,порака
 "Customer Group","Група на купувачи"
+"Custom options let customers choose the product variations they want.","Преододредените опции му дозволуваат на купувачот да избере варијанти од продуктот што му се допаѓаат."
 "Max Characters","Макс. карактери"
 "This item has weight","Овој продукт има тежина"
 "This item has no weight","Овој продукт нема тежина"
@@ -777,6 +778,7 @@ Optional,Незадолжително
 "Advanced Section","Напредна секција"
 "Email to a Friend","Испрати на пријател"
 Configurations,Конфигурации
+"Choose an Option...","Ве молиме изберете..."
 "Cannot delete option with id: %1","Неможе да се избрише опцијата со id %1"
 "You can't add the item to shopping cart.","Неможете да го додадете продуктот во кошничката."
 Confirm,Потврди
