@@ -756,9 +756,9 @@ Options,Опции
 "Edit Configurations","Измени поставки"
 "Buy %1 for %2 each and","Купи %1 за %2 секоја и"
 save,зачувај
-"New Product Review","Преглед на нов продукт"
 "Disable Product","Оневозможи продукт"
 "Enable Product","Овозможи продукт"
+"New Product Review","Преглед на нов продукт"
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Ви благодариме што не контактирате преку вашите коментари и прашања. Ќе ви одговориме во најкраток рок."
 "What’s on your mind?","Што имате на ум?"
 "Contact Form","Контакт формулар"
@@ -1264,7 +1264,6 @@ Status:,Статус:
 Updated:,Ажурирано:
 "Ship To","Испорачај на"
 "Please select a shipping method...","Ве молиме изберете начин на испорака..."
-"Update Shipping Method","Ажурирај начин на испорака"
 "Edit Payment Information","Измени ги информациите за плаќање"
 "Items in Your Shopping Cart","Продукти во твојата кошничка"
 "Edit Shopping Cart","Измени ја кишничката"
